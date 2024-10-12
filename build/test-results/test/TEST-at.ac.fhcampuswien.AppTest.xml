@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="at.ac.fhcampuswien.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-10-11T19:38:02" hostname="Irynas-MacBook-Pro.local" time="0.012">
+  <properties/>
+  <testcase name="marks3()" classname="at.ac.fhcampuswien.AppTest" time="0.012"/>
+  <system-out><![CDATA[Testing Exercise2
+Finished Testing Exercise2
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
